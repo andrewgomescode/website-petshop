@@ -25,6 +25,10 @@ h3 {
 /* CSS GLOBAL */
 
 /* CSS BANNER */
+.top-hover {
+  color: #3c184e;
+}
+
 .top-hover:hover {
   color: #d497e4;
 }
